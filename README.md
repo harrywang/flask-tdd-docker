@@ -2,8 +2,8 @@
 
 Test-Driven Development with Python, Flask, and Docker:
 
-Course (highly recommended): https://testdriven.io/courses/tdd-flask/
-Code: https://gitlab.com/testdriven/flask-tdd-docker
+- Course (highly recommended): https://testdriven.io/courses/tdd-flask/
+- Code: https://gitlab.com/testdriven/flask-tdd-docker
 
 My Updates:
 
